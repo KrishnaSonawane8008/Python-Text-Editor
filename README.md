@@ -5,4 +5,6 @@ The goal of this project was to provide a method to make custom pdfs. The projec
 <h2>PDF Editor</h2>
 The pdf editor program uses the FPDF python library to create pdfs, the idea is to create some intermediate file to serve as the input to the pdf editor program, which will then use the FPDF framework to create a pdf. The main reason why i chose to create this program was to use custom font in the pdf, the FPDF library allowed me to do so if i provide it a font file. The required format of custom font file is called true-type(.ttf), some online websites allow you to make your own ttf files for free. The ttf file can then be further customized using a program such as "fontforge".
 <h3>PDF Editor Output<h3>
+You can see that the pdf contains custom text font.
 <img src="/PdfCreator/pdfeditor_output.png" >
+
