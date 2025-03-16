@@ -11,5 +11,7 @@ You can see that the pdf contains custom text font here <a href="/PdfCreator/hel
 <h2>PDF Editor UI</h2>
 The program uses the Tkinter python library as its UI framework, I chose this library because how popular it was(also top search result on google plus its also written in python so...). The idea was to take input from the UI to create a text file which will be given to the PDF editor program to generate the final output. The UI was to display each page of the pdf as it is being edited, the Tkinter library allows you to display drawings using its canvas widget. This means the tkinter renderer will also be used to show text editing in the UI(this becomes a problem in the future).
 <br>
+<br>
 The UI looks like this
- 
+<br>
+<video src="https://github.com/user-attachments/assets/25074d23-83f6-489d-96f2-471fd50cc263" controls="controls" muted="muted" style="max-width: 730px;" ></video>
