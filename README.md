@@ -31,6 +31,6 @@ I tried making a level of detail system, which means the elements from afar appe
 When you are trying to make something like a text editor, its given that you will need to do a lot of operations regarding graphics rendering. High level libraries such as tkinter tends to be a lot slower in such cases because the core of the library is focused on making a ui not a renderer. In such cases you can use some low levl python library ment for rendering or even a library form some faster language such as C++.
 <br>
 <h2>Resources</h2>
-For FPDF:-  https://www.youtube.com/watch?v=q70xzDG6nls&list=PLjNQtX45f0dR9K2sMJ5ad9wVjqslNBIC0
+For FPDF :-  https://www.youtube.com/watch?v=q70xzDG6nls&list=PLjNQtX45f0dR9K2sMJ5ad9wVjqslNBIC0
 <br>
-For Tkinter:-  https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV
+For Tkinter :-  https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV
